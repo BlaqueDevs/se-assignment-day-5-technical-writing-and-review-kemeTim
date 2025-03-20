@@ -3,14 +3,14 @@
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 
-**Tailoring Technical Information: Speaking the Right Language**  
+Tailoring Technical Information: Speaking the Right Language  
 
 Understanding your audience’s expertise level is the key to making technical information **accessible, engaging, and actionable**. Tech experts crave **depth, precision, and efficiency**, while non-technical users need **clarity, simplicity, and real-world relevance**.  
 
 **Example:**  
 Imagine you're documenting an **AI-powered logistics platform**:  
-🔹 **For Developers:** Use **code snippets, API references, and architecture diagrams** *(e.g., "To integrate our AI prediction module, use `fetch('/api/v1/predict')`...")*.  
-🔹 **For Business Executives:** Focus on **impact and ROI**, explaining how AI reduces delivery delays and optimizes routes *(e.g., "Our system cuts shipping costs by 20% using real-time traffic analysis.")*.  
+**For Developers:** Use **code snippets, API references, and architecture diagrams** *(e.g., "To integrate our AI prediction module, use `fetch('/api/v1/predict')`...")*.  
+**For Business Executives:** Focus on **impact and ROI**, explaining how AI reduces delivery delays and optimizes routes *(e.g., "Our system cuts shipping costs by 20% using real-time traffic analysis.")*.  
 
 **Case Study: Apple’s Approach**  
 Apple's **developer documentation** is rich with Swift code examples, while their **user manuals** break down features in **plain English with intuitive visuals**. This dual approach ensures **both engineers and everyday users** get exactly what they need—nothing more, nothing less.  
